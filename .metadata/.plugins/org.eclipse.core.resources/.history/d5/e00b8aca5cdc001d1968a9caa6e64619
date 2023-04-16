@@ -1,0 +1,5 @@
+package com.tres.entity;
+
+public class User {
+
+}
